@@ -4,7 +4,7 @@ Bank UI landing page is a static site developed with Vite JS and Tailwind css. I
 
 ### Project URL
 
-[title](https://bank-ui-psi.vercel.app/)
+[Bank UI](https://bank-ui-psi.vercel.app/)
 
 ## Home View
 
