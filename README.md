@@ -2,6 +2,11 @@
 
 Bank UI landing page is a static site developed with Vite JS and Tailwind css. It is also responsive and can be viewed on any device.
 
+### Stack
+
+- App create with VITE
+- Tailwind css
+
 ### Project URL
 
 [Bank UI](https://bank-ui-psi.vercel.app/)
